@@ -19,4 +19,4 @@ https://github.com/RaymanPython/game_krest_nolik.git
 
 https://github.com/RaymanPython/ServerBooks.git
 
-https://github.com/RaymanPython/django_project.git сейча разрабатываю проеект на django
+https://github.com/RaymanPython/django_project.git сейчасразрабатываю проеект на django
